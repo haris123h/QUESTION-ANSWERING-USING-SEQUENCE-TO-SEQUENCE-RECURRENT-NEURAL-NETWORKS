@@ -16,15 +16,8 @@ Question Answering a task in NLP that takes input as a questions of different ty
 
 ## Instructions to Run code:
 
-- Open the dog_vision.ipynb file in Google colab, As we have taken huge dataset it cannot be processed in Local jupyter notebooks,
- We are using googlecolob as it has the servers with High GPU.
-
-- Load the Data sets in to the model, Which can be obtained from Kaggle
-
-- Once the above steps are performed follow the instructions in dog_vision.ipynb file and execute all the cells.
-  we will get the required model predictions at the end with the prediction probabilities for each dog breed of each test image.
 
  
 ## Evaluation metrics:
   
-  - The evaluation is a file with prediction probabilities for each dog breed of each test image.
+ 
