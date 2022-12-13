@@ -10,9 +10,9 @@ Question Answering a task in NLP that takes input as a questions of different ty
 
 ## Instructions to Run code:
 
-1. Extract the Dataset Train-v2.0
-2.Open the NLP_finalproject_code.ipynb and load the required dataset and execute.
-3.Extract and visualise the obtained results.
+# 1. Extract the Dataset Train-v2.0.
+# 2.Open the NLP_finalproject_code.ipynb and load the required dataset and execute.
+# 3.Extract and visualise the obtained results.
 
 
 ## References:
